@@ -11,3 +11,6 @@ job:
   script:
   - env
  
+include:
+- template: Auto-DevOps.gitlab-ci.yml
+
